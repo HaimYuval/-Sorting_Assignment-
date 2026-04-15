@@ -38,6 +38,8 @@ Selection Sort and Insertion Sort both show a steep increase in runtime, which m
 
 Merge Sort, on the other hand, grows much more slowly. This is because its time complexity is O(n log n), which scales better for larger inputs. This difference becomes more noticeable as the array size increases.
 
+---
+
 ### Part C- Nearly Sorted Arrays (5% noise)
 
 ![Nearly Sorted Arrays](result2.png)
